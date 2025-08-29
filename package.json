@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^6.7.0",
+    "@adiwajshing/baileys": "^5.0.0"
     "chalk": "^4.1.2",
     "pino": "^8.14.1",
     "ytdl-core": "^4.11.1",
